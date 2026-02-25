@@ -23,4 +23,12 @@ df['Gaji_Bulanan_Juta'] = df['Gaji_Bulanan_Juta'].astype(float)
 # D 
 df['Tanggal_Isi'] = pd.to_datetime(df['Tanggal_Isi'], format='mixed', dayfirst=True)
 
+# 3. Cleaning Wrong Data (Typo Teks Super Berantakan)
+# A
+df['Pekerjaan'] = df['Pekerjaan'].str.title()
+
+# B
+df['Kota_Domisili'] = df['Kota_Domisili'].str.strip().str.title()
+
+
 print(df.to_string())
