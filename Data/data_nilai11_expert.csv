@@ -1,0 +1,6 @@
+ID_Karyawan,Nama,Divisi,Gaji_Pokok,Tunjangan,Potongan,Catatan_Bonus
+K01,Andi,Sales,5000000,1000000,200000,"Bonus Target 500.000"
+K02,Budi,IT,8000000,2000000,500000,"Tidak ada"
+K01,Andi,Sales,5000000,1000000,200000,"Bonus Target 500.000"
+K03,Citra,HRD,6000000,1500000,300000,"Lembur 200.000 + Rajin 100.000"
+K04,Dewi,Sales,5500000,1000000,250000,"Bonus Omset 1.000.000"

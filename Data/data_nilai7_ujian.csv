@@ -1,0 +1,7 @@
+ID_Pasien,Nama,Umur,Gender,Detak_Jantung,Tanggal_Daftar
+P001,Andri,25,L,80,2023-11-01
+P002,Bunga,,P,75,02-11-2023
+P001,Andri,25,L,80,2023-11-01
+P003,Cindi,300,p,85,2023-11-03
+P004,Dodi,40,L,-90,2023/11/04
+P005,Eka,28,Perempuan,100,2023-11-05

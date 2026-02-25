@@ -1,0 +1,8 @@
+ID_Barang,Nama_Barang,Kategori,Stok,Harga_Satuan,Tanggal_Masuk
+BRG001,Laptop X Pro,ELEKTRONIK,50,USD 1200,2024-03-01
+BRG002,Kaos Polos,pakaian,200,USD 15.5,05-03-2024
+BRG003,Smartphone Y,Elektronik,-10,USD 800,2024-03-06
+BRG001,Laptop X Pro,ELEKTRONIK,50,USD 1200,2024-03-01
+BRG004,Kemeja Flanel,Pakaian,8000,,2024/03/10
+BRG005,Biskuit Krim ,Makanan,100,USD 5,2024-03-12
+BRG006,Meja Lipat,FURNITUR,,USD 45,2024-03-15

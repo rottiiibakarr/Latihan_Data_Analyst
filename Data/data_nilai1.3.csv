@@ -1,0 +1,7 @@
+ID_Transaksi,Produk,Jumlah_Beli,Harga_Satuan,Tanggal_Transaksi
+TRX001,Laptop Asis,1,7500000,2023-10-01
+TRX002,Smartphone Samsing,2,3000000,2023/10/05
+TRX003,Mouse Nirkabel,,150000,2023-10-10
+TRX001,Laptop Asis,1,7500000,2023-10-01
+TRX004,Keyboard Mekanik,-3,450000,2023-10-12
+TRX005,Monitor 24 Inch,1,1200000,2023-10-15

@@ -1,0 +1,7 @@
+ID_Booking,Nama_Tamu,Tipe_Kamar,Harga_Per_Malam,Tanggal_CheckIn
+B001,Andi,Deluxe,Rp 500000,2024-02-01
+B002,Budi,standard,Rp 300000,2024-02-02
+B003,Citra,DELUXE,Rp 500000,2024-02-03
+B001,Andi,Deluxe,Rp 500000,2024-02-01
+B004,Deni,Suite,,2024-02-05
+B005,Eka,Standard,Rp 30000000,2024-02-06

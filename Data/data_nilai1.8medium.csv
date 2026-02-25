@@ -1,0 +1,7 @@
+ID_Paket,Nama_Pengirim,Berat_Barang,Ongkos_Kirim,Status
+PKT01,Andi,1.5 kg,15000,Dikirim
+PKT02,Budi,2.0 kg,,Proses
+PKT03,Citra,1.2 kg,12000,DIKIRIM
+PKT01,Andi,1.5 kg,15000,Dikirim
+PKT04,Deni,5000 kg,25000,proses
+PKT05,Eka,3.0 kg,30000,Diterima

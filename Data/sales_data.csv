@@ -1,0 +1,8 @@
+tanggal;produk;kategori;jumlah_terjual;harga_satuan;total_penjualan;diskon;lokasi
+01/01/2024;Laptop;Elektronik;5;10000000;50000000;5%;Jakarta
+02/01/2024;Smartphone;Elektronik;10;5000000;50000000;10%;Bandung
+03/01/2024;Headphone;Elektronik;15;500000;7500000;5%;Surabaya
+04/01/2024;TV LED;Elektronik;3;8000000;24000000;8%;Jakarta
+05/01/2024;Kulkas;Elektronik;2;6000000;12000000;7%;Medan
+06/01/2024;Blender;Peralatan;7;800000;5600000;3%;Yogyakarta
+07/01/2024;AC;Elektronik;4;6500000;26000000;6%;Jakarta

@@ -1,0 +1,7 @@
+ID_Pinjam,Nama_Peminjam,Lama_Pinjam_Hari,Denda_Keterlambatan,Tanggal_Pinjam
+P001,Fahmi,7,0,2024-01-10
+P002,Gita,,5000,2024-01-12
+P003,Hasan,5,0,15/01/2024
+P001,Fahmi,7,0,2024-01-10
+P004,Intan,-3,2000,2024-01-18
+P005,Joko,14,0,2024-01-20
